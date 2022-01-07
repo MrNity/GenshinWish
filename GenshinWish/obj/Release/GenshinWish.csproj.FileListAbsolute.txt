@@ -1,0 +1,10 @@
+D:\Training\GenshinWish\GenshinWish\bin\Release\GenshinWish.exe.config
+D:\Training\GenshinWish\GenshinWish\bin\Release\GenshinWish.exe
+D:\Training\GenshinWish\GenshinWish\bin\Release\GenshinWish.pdb
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.csproj.AssemblyReference.cache
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.Form1.resources
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.Properties.Resources.resources
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.csproj.GenerateResource.cache
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.csproj.CoreCompileInputs.cache
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.exe
+D:\Training\GenshinWish\GenshinWish\obj\Release\GenshinWish.pdb
