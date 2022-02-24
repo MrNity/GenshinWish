@@ -63,7 +63,7 @@ namespace GenshinWish
             this.lblVer.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.lblVer.Size = new System.Drawing.Size(147, 25);
             this.lblVer.TabIndex = 3;
-            this.lblVer.Text = "v0.1";
+            this.lblVer.Text = "v0.0";
             this.lblVer.TextAlign = System.Drawing.ContentAlignment.BottomRight;
             // 
             // Form1
