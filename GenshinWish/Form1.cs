@@ -13,7 +13,7 @@ namespace GenshinWish
 {
     public partial class Form1 : Form
     {
-        string version = "v0.2";
+        string version = "v0.3";
         public Form1()
         {
             InitializeComponent();
@@ -28,7 +28,7 @@ namespace GenshinWish
             using (var sr = new StreamReader(log.Open(FileMode.Open, FileAccess.Read, FileShare.ReadWrite)))
             {
                 string text = sr.ReadToEnd();
-                string findLink = @"OnGetWebViewPageFinish:https://webstatic-sea.mihoyo.com/";
+                string findLink = @"OnGetWebViewPageFinish:https://webstatic-sea.hoyoverse.com/";
                 string findLog = @"#/log";
 
                 int lenLink = findLink.Length;
